@@ -1,0 +1,16 @@
+#Items
+item.DemonSlayer.name=Demon Slayer
+item.GrimorioAsta.name=Grimorio
+item.GrimorioYuno.name=Grimorio
+
+#Items Npcs
+item.DemonSlayerNPC.name=Demon Slayer Npc
+
+#Blocks
+tile.BlockAsta.name=Random Block
+
+#CreativeTabs
+itemGroup.bcnTab=BCNation
+itemGroup.bcnTabNpcs=BCNation NPCS
+
+#Entities

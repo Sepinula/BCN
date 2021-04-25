@@ -1,0 +1,186 @@
+{
+  "Black Clover - Opening 1 ": {
+   "category": "player",
+   "sounds": [{"name": "songs/Black Clover - Opening 1", "stream": true}]
+  },
+  "Black Clover - Opening 2 ": {
+    "category": "player",
+    "sounds": [{"name": "songs/Black Clover - Opening 2", "stream": true}]
+  },
+  "Black Clover - Opening 3 ": {
+    "category": "player",
+    "sounds": [{"name": "songs/Black Clover - Opening 3", "stream": true}]
+  },
+  "Black Clover - Opening 4 ": {
+    "category": "player",
+    "sounds": [{"name": "songs/Black Clover - Opening 4", "stream": true}]
+  },
+  "Black Clover - Opening 5 ": {
+   "category": "player",
+   "sounds": [{"name": "songs/Black Clover - Opening 5", "stream": true}]
+  },
+  "Black Clover - Opening 6 ": {
+   "category": "player",
+   "sounds": [{"name": "songs/Black Clover - Opening 6", "stream": true}]
+  },
+  "Black Clover - Opening 7 ": {
+   "category": "player",
+   "sounds": [{"name": "songs/Black Clover - Opening 7", "stream": true}]
+  },
+  "Black Clover - Opening 8 ": {
+   "category": "player",
+   "sounds": [{"name": "songs/Black Clover - Opening 8", "stream": true}]
+  },
+  "Black Clover - Opening 9 ": {
+   "category": "player",
+   "sounds": [{"name": "songs/Black Clover - Opening 9", "stream": true}]
+  },
+  "Black Clover - Opening 10 ": {
+   "category": "player",
+   "sounds": [{"name": "songs/Black Clover - Opening 10", "stream": true}]
+  },
+  "Black Clover - Opening 11 ": {
+   "category": "player",
+   "sounds": [{"name": "songs/Black Clover - Opening 11", "stream": true}]
+  },
+  "Black Clover - Opening 12 ": {
+   "category": "player",
+   "sounds": [{"name": "songs/Black Clover - Opening 12", "stream": true}]
+  },
+  "Legend ": {
+   "category": "player",
+   "sounds": [{"name": "songs/Black Clover OST - 03 - Legend", "stream": true}]
+  },
+  "Resolution ": {
+   "category": "player",
+   "sounds": [{"name": "songs/Black Clover OST - 04 - Resolution", "stream": true}]
+  },
+  "Pentagram ": {
+  "category": "player",
+  "sounds": [{"name": "songs/Black Clover OST - 05 - Pentagram", "stream": true}]
+  },
+  "Conviction Asta Theme ": {
+   "category": "player",
+   "sounds": [{"name": "songs/Black Clover OST - 06 - Conviction -Asta’s Theme-", "stream": true}]
+  },
+  "Like a Comet Yuno Theme ": {
+   "category": "player",
+   "sounds": [{"name": "songs/Black Clover OST - 07 - Like a Comet -Yuno’s Theme", "stream": true}]
+  },
+  "The Final Hour ": {
+   "category": "player",
+   "sounds": [{"name": "songs/Black Clover OST - 08 - The Final Hour", "stream": true}]
+  },
+  "Going Underwater ": {
+   "category": "player",
+   "sounds": [{"name": "songs/Black Clover OST - 09 - Going Underwater", "stream": true}]
+  },
+  "Confrontation ": {
+   "category": "player",
+   "sounds": [{"name": "songs/Black Clover OST - 10 - Confrontation", "stream": true}]
+  },
+  "Spirit ": {
+   "category": "player",
+   "sounds": [{"name": "songs/Black Clover OST - 11 - Spirit", "stream": true}]
+  },
+  "Selflessness ": {
+   "category": "player",
+   "sounds": [{"name": "songs/Black Clover OST - 12 - Selflessness", "stream": true}]
+  },
+  "Jet Black Sword ": {
+   "category": "player",
+   "sounds": [{"name": "songs/Black Clover OST - 13 - Jet Black Sword", "stream": true}]
+  },
+  "Shudder ": {
+   "category": "player",
+   "sounds": [{"name": "songs/Black Clover OST - 14 - Shudder", "stream": true}]
+  },
+  "Threat ": {
+   "category": "player",
+   "sounds": [{"name": "songs/Black Clover OST - 15 - Threat", "stream": true}]
+  },
+  "Strategy ": {
+   "category": "player",
+   "sounds": [{"name": "songs/Black Clover OST - 16 - Strategy", "stream": true}]
+  },
+  "Pursuit ": {
+   "category": "player",
+   "sounds": [{"name": "songs/Black Clover OST - 17 - Pursuit", "stream": true}]
+  },
+  "Imminent Terror ": {
+   "category": "player",
+   "sounds": [{"name": "songs/Black Clover OST - 18 - Imminent Terror", "stream": true}]
+  },
+  "Raid ": {
+   "category": "player",
+   "sounds": [{"name": "songs/Black Clover OST - 19 - Raid", "stream": true}]
+  },
+  "Defeat ": {
+   "category": "player",
+   "sounds": [{"name": "songs/Black Clover OST - 20 - Defeat", "stream": true}]
+  },
+  "Fate ": {
+   "category": "player",
+   "sounds": [{"name": "songs/Black Clover OST - 21 - Fate", "stream": true}]
+  },
+  "Repose of Souls ": {
+   "category": "player",
+   "sounds": [{"name": "Black Clover OST - 22 - Repose-of-Souls", "stream": true}]
+  },
+  "Fleeting Prayer ": {
+   "category": "player",
+   "sounds": [{"name": "songs/Black Clover OST - 23 - Fleeting-Prayer", "stream": true}]
+  },
+  "Slumber ": {
+   "category": "player",
+   "sounds": [{"name": "songs/Black Clover OST - 24 - Slumber", "stream": true}]
+  },
+  "Welcome Home ": {
+   "category": "player",
+   "sounds": [{"name": "songs/Black Clover OST - 25 - Welcome Home", "stream": true}]
+  },
+  "Promise ": {
+   "category": "player",
+   "sounds": [{"name": "songs/Black Clover OST - 26 - Promise", "stream": true}]
+  },
+  "Hope ": {
+   "category": "player",
+   "sounds": [{"name": "songs/Black Clover OST - 27 - Hope", "stream": true}]
+  },
+  "Tranquil Scene ": {
+   "category": "player",
+   "sounds": [{"name": "songs/Black Clover OST - 28 - Tranquil Scene", "stream": true}]
+  },
+  "Two People at Odds ": {
+   "category": "player",
+   "sounds": [{"name": "songs/Black Clover OST - 29 - Two People at Odds", "stream": true}]
+  },
+  "A Pleasant Vacation ": {
+   "category": "player",
+   "sounds": [{"name": "songs/Black Clover OST - 30 - A Pleasant Vacation", "stream": true}]
+  },
+  "Everyone is Carefree ": {
+   "category": "player",
+   "sounds": [{"name": "songs/Black Clover OST - 31 - Everyone’s Carefree", "stream": true}]
+  },
+  "Everyone is Cheerful ": {
+   "category": "player",
+   "sounds": [{"name": "songs/Black Clover OST - 32 - Everyone’s Cheerful", "stream": true}]
+  },
+  "Challenger ": {
+   "category": "player",
+   "sounds": [{"name": "songs/Black Clover OST - 33 - Challenger", "stream": true}]
+  },
+  "Bravery ": {
+   "category": "player",
+   "sounds": [{"name": "songs/Black Clover OST - 34 - Bravery", "stream": true}]
+  },
+  "Determination ": {
+   "category": "player",
+   "sounds": [{"name": "songs/Black Clover OST - 35 - Determination", "stream": true}]
+  },
+  "Dawn ": {
+   "category": "player",
+   "sounds": [{"name": "songs/Black Clover OST - 36 - Dawn", "stream": true}]
+  }
+}
